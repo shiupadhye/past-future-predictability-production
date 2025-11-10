@@ -5,4 +5,11 @@
 # Ignore macOS system files
 .DS_Store
 
+Study1_probabilistic-reduction/plots
+Study1_probabilistic-reduction/results
 
+
+Study2_substitution-model/plots
+Study1_substitution-model/results
+
+manuscripts/
