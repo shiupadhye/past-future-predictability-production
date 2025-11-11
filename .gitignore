@@ -1,9 +1,12 @@
 # Ignore CSV and text files
 *.csv
 *.txt
+*.ipynb
 
 # Ignore macOS system files
 .DS_Store
+
+language-modeling/training
 
 Study1_probabilistic-reduction/plots
 Study1_probabilistic-reduction/results
