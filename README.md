@@ -8,10 +8,9 @@ Code and repository for the paper "Back to the Future: The Role of Past and Futu
 
 language-modeling: Code for language modeling training
 
-preprocessing: Misc. code for preprocessing
+preprocessing: Misc. code for data preprocessing
 
-Study1-probabilistic-reduction: Code for processing and modeling word durations
-
+Study1-probabilistic-reduction: Code for modeling word durations
 
 Study2-substitution-model: Code for processing and modeling substitution choices in naturalistic
 
