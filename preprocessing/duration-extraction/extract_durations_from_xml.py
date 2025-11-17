@@ -133,6 +133,7 @@ def combine_and_preprocess(df_A,df_B):
     return df_preprocessed
 
 def main():
+    # PATH to xml directory containing conversations formatted in XML
 	ROOT = "xml"
 	term_DIR = "terminals"
 	disf_DIR = "disfluency"
