@@ -45,7 +45,7 @@ wl_tokenizer.pre_tokenizer = pre_tokenizers.Sequence(
     [pre_tokenizers.WhitespaceSplit()]
 )
 # define special tokens
-special_tokens = ['<unk>','<mask>','<pad>','<eos>']
+special_tokens = ['<unk>','<mask>','<pad>','<eos>','<pre>','<suf>','<mid>']
 
 # define trainer
 trainer = trainers.WordLevelTrainer(special_tokens=special_tokens)
