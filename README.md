@@ -14,7 +14,8 @@ Code and repository for the paper "Back to the Future: The Role of Past and Futu
 - Study2-substitution-model: Scripts for modeling substitution choices in naturalistic productions 
 
 ### Trained Language Model
-The infill-adapted GPT-2 small language model can be found at: https://huggingface.co/shiupadhye/GPT2-small-infill-adapted-CANDOR
+The infill-adapted GPT-2 small language model can be found at: https://huggingface.co/shiupadhye/gpt2-small-infill-adapted-candor
+Software for data augmentation, tokenizer and model training can be found at: https://github.com/shiupadhye/word-infill-model-training
 
 ### Data availability
 
