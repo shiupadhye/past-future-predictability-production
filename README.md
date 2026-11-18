@@ -5,8 +5,6 @@ Code and repository for the paper "Back to the Future: The Role of Past and Futu
 
 ### Scripts
 
-- language-modeling: Scripts for language modeling training and inference
-
 - preprocessing: Scripts for data preprocessing
 
 - Study1-probabilistic-reduction: Scripts for running duration analyses
