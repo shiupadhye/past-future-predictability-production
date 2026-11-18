@@ -11,8 +11,8 @@ Code and repository for the paper "Back to the Future: The Role of Past and Futu
 
 - Study2-substitution-model: Scripts for modeling substitution choices in naturalistic productions 
 
-### Trained Language Model
-Software for data augmentation, training, and inference can be found at: https://github.com/shiupadhye/word-infill-model-training
+### Language Modeling
+Software for data augmentation, training, and inference can be found in this repository: https://github.com/shiupadhye/word-infill-model-training
 
 ### Data availability
 
